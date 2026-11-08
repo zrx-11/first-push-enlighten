@@ -1,0 +1,347 @@
+[
+ {
+  "check": "首页渲染",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "书卡数量",
+  "pass": true,
+  "extra": "11/11"
+ },
+ {
+  "check": "总览页：跨书总览：从计算与复杂，到物理、心智与未来",
+  "pass": true,
+  "extra": "2604 字符"
+ },
+ {
+  "check": "总览页：跨书概念映射表",
+  "pass": true,
+  "extra": "1615 字符"
+ },
+ {
+  "check": "总览页：综合检验建议",
+  "pass": true,
+  "extra": "1543 字符"
+ },
+ {
+  "check": "complex 首章渲染",
+  "pass": true,
+  "extra": "1693 字符"
+ },
+ {
+  "check": "complex 末章渲染",
+  "pass": true,
+  "extra": "1375 字符"
+ },
+ {
+  "check": "engines-of-complexity 首章渲染",
+  "pass": true,
+  "extra": "1373 字符"
+ },
+ {
+  "check": "engines-of-complexity 末章渲染",
+  "pass": true,
+  "extra": "1106 字符"
+ },
+ {
+  "check": "emperors-new-mind 首章渲染",
+  "pass": true,
+  "extra": "1229 字符"
+ },
+ {
+  "check": "emperors-new-mind 末章渲染",
+  "pass": true,
+  "extra": "1294 字符"
+ },
+ {
+  "check": "engines-of-logic 首章渲染",
+  "pass": true,
+  "extra": "1063 字符"
+ },
+ {
+  "check": "engines-of-logic 末章渲染",
+  "pass": true,
+  "extra": "1161 字符"
+ },
+ {
+  "check": "meaning-of-math 首章渲染",
+  "pass": true,
+  "extra": "1247 字符"
+ },
+ {
+  "check": "meaning-of-math 末章渲染",
+  "pass": true,
+  "extra": "1137 字符"
+ },
+ {
+  "check": "next-fifty-years 首章渲染",
+  "pass": true,
+  "extra": "755 字符"
+ },
+ {
+  "check": "next-fifty-years 末章渲染",
+  "pass": true,
+  "extra": "696 字符"
+ },
+ {
+  "check": "truth-and-beauty 首章渲染",
+  "pass": true,
+  "extra": "951 字符"
+ },
+ {
+  "check": "truth-and-beauty 末章渲染",
+  "pass": true,
+  "extra": "969 字符"
+ },
+ {
+  "check": "whats-next 首章渲染",
+  "pass": true,
+  "extra": "754 字符"
+ },
+ {
+  "check": "whats-next 末章渲染",
+  "pass": true,
+  "extra": "712 字符"
+ },
+ {
+  "check": "world-beyond-physics 首章渲染",
+  "pass": true,
+  "extra": "927 字符"
+ },
+ {
+  "check": "world-beyond-physics 末章渲染",
+  "pass": true,
+  "extra": "791 字符"
+ },
+ {
+  "check": "galileos-finger 首章渲染",
+  "pass": true,
+  "extra": "890 字符"
+ },
+ {
+  "check": "galileos-finger 末章渲染",
+  "pass": true,
+  "extra": "923 字符"
+ },
+ {
+  "check": "four-dimensional-travel 首章渲染",
+  "pass": true,
+  "extra": "857 字符"
+ },
+ {
+  "check": "four-dimensional-travel 末章渲染",
+  "pass": true,
+  "extra": "759 字符"
+ },
+ {
+  "check": "complex 测验题数",
+  "pass": true,
+  "extra": "41 题"
+ },
+ {
+  "check": "complex 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "complex 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "engines-of-complexity 测验题数",
+  "pass": true,
+  "extra": "31 题"
+ },
+ {
+  "check": "engines-of-complexity 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "engines-of-complexity 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "emperors-new-mind 测验题数",
+  "pass": true,
+  "extra": "23 题"
+ },
+ {
+  "check": "emperors-new-mind 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "emperors-new-mind 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "engines-of-logic 测验题数",
+  "pass": true,
+  "extra": "21 题"
+ },
+ {
+  "check": "engines-of-logic 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "engines-of-logic 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "meaning-of-math 测验题数",
+  "pass": true,
+  "extra": "23 题"
+ },
+ {
+  "check": "meaning-of-math 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "meaning-of-math 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "next-fifty-years 测验题数",
+  "pass": true,
+  "extra": "28 题"
+ },
+ {
+  "check": "next-fifty-years 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "next-fifty-years 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "truth-and-beauty 测验题数",
+  "pass": true,
+  "extra": "17 题"
+ },
+ {
+  "check": "truth-and-beauty 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "truth-and-beauty 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "whats-next 测验题数",
+  "pass": true,
+  "extra": "21 题"
+ },
+ {
+  "check": "whats-next 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "whats-next 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "world-beyond-physics 测验题数",
+  "pass": true,
+  "extra": "14 题"
+ },
+ {
+  "check": "world-beyond-physics 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "world-beyond-physics 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "galileos-finger 测验题数",
+  "pass": true,
+  "extra": "23 题"
+ },
+ {
+  "check": "galileos-finger 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "galileos-finger 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "four-dimensional-travel 测验题数",
+  "pass": true,
+  "extra": "15 题"
+ },
+ {
+  "check": "four-dimensional-travel 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "four-dimensional-travel 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "抽认卡正面有内容",
+  "pass": true,
+  "extra": "第 1 章一句话核心是什么？"
+ },
+ {
+  "check": "抽认卡翻转",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "认识计数增加",
+  "pass": true,
+  "extra": "1"
+ },
+ {
+  "check": "术语表过滤",
+  "pass": true,
+  "extra": "共31 过滤后1（涌现）"
+ },
+ {
+  "check": "全局搜索命中",
+  "pass": true,
+  "extra": "8 条"
+ },
+ {
+  "check": "进度跨刷新持久",
+  "pass": true,
+  "extra": "《复杂》 进度 16% · 已学 3/19 章 → 《复杂》 进度 16% · 已学 3/19 章"
+ },
+ {
+  "check": "学习路径完成标记",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "深色模式",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "控制台无错误",
+  "pass": true,
+  "extra": ""
+ }
+]
